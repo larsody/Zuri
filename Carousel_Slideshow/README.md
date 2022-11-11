@@ -14,3 +14,4 @@ When the previous icon on the first image is clicked, it should show the last im
 
 Submission Mode
 **GitHub Link**
+https://github.com/larsody/Zuri/tree/master/Carousel_Slideshow
